@@ -1,0 +1,16 @@
+.DS_Store
+
+bldc_project_PIC1.X/build/
+bldc_project_PIC1.X/dist/
+bldc_project_PIC1.X/nbproject/Makefile-*
+bldc_project_PIC1.X/nbproject/Package-*
+bldc_project_PIC1.X/nbproject/private/
+
+bldc_project_PIC2.X/build/
+bldc_project_PIC2.X/dist/
+bldc_project_PIC2.X/nbproject/Makefile-*
+bldc_project_PIC2.X/nbproject/Package-*
+bldc_project_PIC2.X/nbproject/private/
+
+
+
